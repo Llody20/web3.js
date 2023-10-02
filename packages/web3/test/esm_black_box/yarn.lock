@@ -309,7 +309,7 @@
 "@ethersproject/abi@^5.6.4":
   version "5.6.4"
   resolved "http://localhost:4873/@ethersproject%2fabi/-/abi-5.6.4.tgz#f6e01b6ed391a505932698ecc0d9e7a99ee60362"
-  integrity sha512-TTeZUlCeIHG6527/2goZA6gW5F8Emoc7MrZDC7hhP84aRGvW3TEdTnZR08Ls88YXM1m2SuK42Osw/jSi3uO8gg==
+  integrity "sha1-9uAbbtORpQWTJpjswNnnqZ7mA2I= sha512-TTeZUlCeIHG6527/2goZA6gW5F8Emoc7MrZDC7hhP84aRGvW3TEdTnZR08Ls88YXM1m2SuK42Osw/jSi3uO8gg=="
   dependencies:
     "@ethersproject/address" "^5.6.1"
     "@ethersproject/bignumber" "^5.6.2"
@@ -324,7 +324,7 @@
 "@ethersproject/abstract-provider@^5.6.1":
   version "5.6.1"
   resolved "http://localhost:4873/@ethersproject%2fabstract-provider/-/abstract-provider-5.6.1.tgz#02ddce150785caf0c77fe036a0ebfcee61878c59"
-  integrity sha512-BxlIgogYJtp1FS8Muvj8YfdClk3unZH0vRMVX791Z9INBNT/kuACZ9GzaY1Y4yFq+YSy6/w4gzj3HCRKrK9hsQ==
+  integrity "sha1-At3OFQeFyvDHf+A2oOv87mGHjFk= sha512-BxlIgogYJtp1FS8Muvj8YfdClk3unZH0vRMVX791Z9INBNT/kuACZ9GzaY1Y4yFq+YSy6/w4gzj3HCRKrK9hsQ=="
   dependencies:
     "@ethersproject/bignumber" "^5.6.2"
     "@ethersproject/bytes" "^5.6.1"
@@ -337,7 +337,7 @@
 "@ethersproject/abstract-signer@^5.6.2":
   version "5.6.2"
   resolved "http://localhost:4873/@ethersproject%2fabstract-signer/-/abstract-signer-5.6.2.tgz#491f07fc2cbd5da258f46ec539664713950b0b33"
-  integrity sha512-n1r6lttFBG0t2vNiI3HoWaS/KdOt8xyDjzlP2cuevlWLG6EX0OwcKLyG/Kp/cuwNxdy/ous+R/DEMdTUwWQIjQ==
+  integrity "sha1-SR8H/Cy9XaJY9G7FOWZHE5ULCzM= sha512-n1r6lttFBG0t2vNiI3HoWaS/KdOt8xyDjzlP2cuevlWLG6EX0OwcKLyG/Kp/cuwNxdy/ous+R/DEMdTUwWQIjQ=="
   dependencies:
     "@ethersproject/abstract-provider" "^5.6.1"
     "@ethersproject/bignumber" "^5.6.2"
@@ -348,7 +348,7 @@
 "@ethersproject/address@^5.6.1":
   version "5.6.1"
   resolved "http://localhost:4873/@ethersproject%2faddress/-/address-5.6.1.tgz#ab57818d9aefee919c5721d28cd31fd95eff413d"
-  integrity sha512-uOgF0kS5MJv9ZvCz7x6T2EXJSzotiybApn4XlOgoTX0xdtyVIJ7pF+6cGPxiEq/dpBiTfMiw7Yc81JcwhSYA0Q==
+  integrity "sha1-q1eBjZrv7pGcVyHSjNMf2V7/QT0= sha512-uOgF0kS5MJv9ZvCz7x6T2EXJSzotiybApn4XlOgoTX0xdtyVIJ7pF+6cGPxiEq/dpBiTfMiw7Yc81JcwhSYA0Q=="
   dependencies:
     "@ethersproject/bignumber" "^5.6.2"
     "@ethersproject/bytes" "^5.6.1"
@@ -359,14 +359,14 @@
 "@ethersproject/base64@^5.6.1":
   version "5.6.1"
   resolved "http://localhost:4873/@ethersproject%2fbase64/-/base64-5.6.1.tgz#2c40d8a0310c9d1606c2c37ae3092634b41d87cb"
-  integrity sha512-qB76rjop6a0RIYYMiB4Eh/8n+Hxu2NIZm8S/Q7kNo5pmZfXhHGHmS4MinUainiBC54SCyRnwzL+KZjj8zbsSsw==
+  integrity "sha1-LEDYoDEMnRYGwsN64wkmNLQdh8s= sha512-qB76rjop6a0RIYYMiB4Eh/8n+Hxu2NIZm8S/Q7kNo5pmZfXhHGHmS4MinUainiBC54SCyRnwzL+KZjj8zbsSsw=="
   dependencies:
     "@ethersproject/bytes" "^5.6.1"
 
 "@ethersproject/bignumber@^5.6.2":
   version "5.6.2"
   resolved "http://localhost:4873/@ethersproject%2fbignumber/-/bignumber-5.6.2.tgz#72a0717d6163fab44c47bcc82e0c550ac0315d66"
-  integrity sha512-v7+EEUbhGqT3XJ9LMPsKvXYHFc8eHxTowFCG/HgJErmq4XHJ2WR7aeyICg3uTOAQ7Icn0GFHAohXEhxQHq4Ubw==
+  integrity "sha1-cqBxfWFj+rRMR7zILgxVCsAxXWY= sha512-v7+EEUbhGqT3XJ9LMPsKvXYHFc8eHxTowFCG/HgJErmq4XHJ2WR7aeyICg3uTOAQ7Icn0GFHAohXEhxQHq4Ubw=="
   dependencies:
     "@ethersproject/bytes" "^5.6.1"
     "@ethersproject/logger" "^5.6.0"
@@ -375,21 +375,21 @@
 "@ethersproject/bytes@^5.6.1":
   version "5.6.1"
   resolved "http://localhost:4873/@ethersproject%2fbytes/-/bytes-5.6.1.tgz#24f916e411f82a8a60412344bf4a813b917eefe7"
-  integrity sha512-NwQt7cKn5+ZE4uDn+X5RAXLp46E1chXoaMmrxAyA0rblpxz8t58lVkrHXoRIn0lz1joQElQ8410GqhTqMOwc6g==
+  integrity "sha1-JPkW5BH4KopgQSNEv0qBO5F+7+c= sha512-NwQt7cKn5+ZE4uDn+X5RAXLp46E1chXoaMmrxAyA0rblpxz8t58lVkrHXoRIn0lz1joQElQ8410GqhTqMOwc6g=="
   dependencies:
     "@ethersproject/logger" "^5.6.0"
 
 "@ethersproject/constants@^5.6.1":
   version "5.6.1"
   resolved "http://localhost:4873/@ethersproject%2fconstants/-/constants-5.6.1.tgz#e2e974cac160dd101cf79fdf879d7d18e8cb1370"
-  integrity sha512-QSq9WVnZbxXYFftrjSjZDUshp6/eKp6qrtdBtUCm0QxCV5z1fG/w3kdlcsjMCQuQHUnAclKoK7XpXMezhRDOLg==
+  integrity "sha1-4ul0ysFg3RAc95/fh519GOjLE3A= sha512-QSq9WVnZbxXYFftrjSjZDUshp6/eKp6qrtdBtUCm0QxCV5z1fG/w3kdlcsjMCQuQHUnAclKoK7XpXMezhRDOLg=="
   dependencies:
     "@ethersproject/bignumber" "^5.6.2"
 
 "@ethersproject/hash@^5.6.1":
   version "5.6.1"
   resolved "http://localhost:4873/@ethersproject%2fhash/-/hash-5.6.1.tgz#224572ea4de257f05b4abf8ae58b03a67e99b0f4"
-  integrity sha512-L1xAHurbaxG8VVul4ankNX5HgQ8PNCTrnVXEiFnE9xoRnaUcgfD12tZINtDinSllxPLCtGwguQxJ5E6keE84pA==
+  integrity "sha1-IkVy6k3iV/BbSr+K5YsDpn6ZsPQ= sha512-L1xAHurbaxG8VVul4ankNX5HgQ8PNCTrnVXEiFnE9xoRnaUcgfD12tZINtDinSllxPLCtGwguQxJ5E6keE84pA=="
   dependencies:
     "@ethersproject/abstract-signer" "^5.6.2"
     "@ethersproject/address" "^5.6.1"
@@ -403,7 +403,7 @@
 "@ethersproject/keccak256@^5.6.1":
   version "5.6.1"
   resolved "http://localhost:4873/@ethersproject%2fkeccak256/-/keccak256-5.6.1.tgz#b867167c9b50ba1b1a92bccdd4f2d6bd168a91cc"
-  integrity sha512-bB7DQHCTRDooZZdL3lk9wpL0+XuG3XLGHLh3cePnybsO3V0rdCAOQGpn/0R3aODmnTOOkCATJiD2hnL+5bwthA==
+  integrity "sha1-uGcWfJtQuhsakrzN1PLWvRaKkcw= sha512-bB7DQHCTRDooZZdL3lk9wpL0+XuG3XLGHLh3cePnybsO3V0rdCAOQGpn/0R3aODmnTOOkCATJiD2hnL+5bwthA=="
   dependencies:
     "@ethersproject/bytes" "^5.6.1"
     js-sha3 "0.8.0"
@@ -411,26 +411,26 @@
 "@ethersproject/logger@^5.6.0":
   version "5.6.0"
   resolved "http://localhost:4873/@ethersproject%2flogger/-/logger-5.6.0.tgz#d7db1bfcc22fd2e4ab574cba0bb6ad779a9a3e7a"
-  integrity sha512-BiBWllUROH9w+P21RzoxJKzqoqpkyM1pRnEKG69bulE9TSQD8SAIvTQqIMZmmCO8pUNkgLP1wndX1gKghSpBmg==
+  integrity "sha1-19sb/MIv0uSrV0y6C7atd5qaPno= sha512-BiBWllUROH9w+P21RzoxJKzqoqpkyM1pRnEKG69bulE9TSQD8SAIvTQqIMZmmCO8pUNkgLP1wndX1gKghSpBmg=="
 
 "@ethersproject/networks@^5.6.3":
   version "5.6.4"
   resolved "http://localhost:4873/@ethersproject%2fnetworks/-/networks-5.6.4.tgz#51296d8fec59e9627554f5a8a9c7791248c8dc07"
-  integrity sha512-KShHeHPahHI2UlWdtDMn2lJETcbtaJge4k7XSjDR9h79QTd6yQJmv6Cp2ZA4JdqWnhszAOLSuJEd9C0PRw7hSQ==
+  integrity "sha1-USltj+xZ6WJ1VPWoqcd5EkjI3Ac= sha512-KShHeHPahHI2UlWdtDMn2lJETcbtaJge4k7XSjDR9h79QTd6yQJmv6Cp2ZA4JdqWnhszAOLSuJEd9C0PRw7hSQ=="
   dependencies:
     "@ethersproject/logger" "^5.6.0"
 
 "@ethersproject/properties@^5.6.0":
   version "5.6.0"
   resolved "http://localhost:4873/@ethersproject%2fproperties/-/properties-5.6.0.tgz#38904651713bc6bdd5bdd1b0a4287ecda920fa04"
-  integrity sha512-szoOkHskajKePTJSZ46uHUWWkbv7TzP2ypdEK6jGMqJaEt2sb0jCgfBo0gH0m2HBpRixMuJ6TBRaQCF7a9DoCg==
+  integrity "sha1-OJBGUXE7xr3VvdGwpCh+zakg+gQ= sha512-szoOkHskajKePTJSZ46uHUWWkbv7TzP2ypdEK6jGMqJaEt2sb0jCgfBo0gH0m2HBpRixMuJ6TBRaQCF7a9DoCg=="
   dependencies:
     "@ethersproject/logger" "^5.6.0"
 
 "@ethersproject/rlp@^5.6.1":
   version "5.6.1"
   resolved "http://localhost:4873/@ethersproject%2frlp/-/rlp-5.6.1.tgz#df8311e6f9f24dcb03d59a2bac457a28a4fe2bd8"
-  integrity sha512-uYjmcZx+DKlFUk7a5/W9aQVaoEC7+1MOBgNtvNg13+RnuUwT4F0zTovC0tmay5SmRslb29V1B7Y5KCri46WhuQ==
+  integrity "sha1-34MR5vnyTcsD1ZorrEV6KKT+K9g= sha512-uYjmcZx+DKlFUk7a5/W9aQVaoEC7+1MOBgNtvNg13+RnuUwT4F0zTovC0tmay5SmRslb29V1B7Y5KCri46WhuQ=="
   dependencies:
     "@ethersproject/bytes" "^5.6.1"
     "@ethersproject/logger" "^5.6.0"
@@ -438,7 +438,7 @@
 "@ethersproject/signing-key@^5.6.2":
   version "5.6.2"
   resolved "http://localhost:4873/@ethersproject%2fsigning-key/-/signing-key-5.6.2.tgz#8a51b111e4d62e5a62aee1da1e088d12de0614a3"
-  integrity sha512-jVbu0RuP7EFpw82vHcL+GP35+KaNruVAZM90GxgQnGqB6crhBqW/ozBfFvdeImtmb4qPko0uxXjn8l9jpn0cwQ==
+  integrity "sha1-ilGxEeTWLlpiruHaHgiNEt4GFKM= sha512-jVbu0RuP7EFpw82vHcL+GP35+KaNruVAZM90GxgQnGqB6crhBqW/ozBfFvdeImtmb4qPko0uxXjn8l9jpn0cwQ=="
   dependencies:
     "@ethersproject/bytes" "^5.6.1"
     "@ethersproject/logger" "^5.6.0"
@@ -450,7 +450,7 @@
 "@ethersproject/strings@^5.6.1":
   version "5.6.1"
   resolved "http://localhost:4873/@ethersproject%2fstrings/-/strings-5.6.1.tgz#dbc1b7f901db822b5cafd4ebf01ca93c373f8952"
-  integrity sha512-2X1Lgk6Jyfg26MUnsHiT456U9ijxKUybz8IM1Vih+NJxYtXhmvKBcHOmvGqpFSVJ0nQ4ZCoIViR8XlRw1v/+Cw==
+  integrity "sha1-28G3+QHbgitcr9Tr8BypPDc/iVI= sha512-2X1Lgk6Jyfg26MUnsHiT456U9ijxKUybz8IM1Vih+NJxYtXhmvKBcHOmvGqpFSVJ0nQ4ZCoIViR8XlRw1v/+Cw=="
   dependencies:
     "@ethersproject/bytes" "^5.6.1"
     "@ethersproject/constants" "^5.6.1"
@@ -459,7 +459,7 @@
 "@ethersproject/transactions@^5.6.2":
   version "5.6.2"
   resolved "http://localhost:4873/@ethersproject%2ftransactions/-/transactions-5.6.2.tgz#793a774c01ced9fe7073985bb95a4b4e57a6370b"
-  integrity sha512-BuV63IRPHmJvthNkkt9G70Ullx6AcM+SDc+a8Aw/8Yew6YwT51TcBKEp1P4oOQ/bP25I18JJr7rcFRgFtU9B2Q==
+  integrity "sha1-eTp3TAHO2f5wc5hbuVpLTlemNws= sha512-BuV63IRPHmJvthNkkt9G70Ullx6AcM+SDc+a8Aw/8Yew6YwT51TcBKEp1P4oOQ/bP25I18JJr7rcFRgFtU9B2Q=="
   dependencies:
     "@ethersproject/address" "^5.6.1"
     "@ethersproject/bignumber" "^5.6.2"
@@ -474,7 +474,7 @@
 "@ethersproject/web@^5.6.1":
   version "5.6.1"
   resolved "http://localhost:4873/@ethersproject%2fweb/-/web-5.6.1.tgz#6e2bd3ebadd033e6fe57d072db2b69ad2c9bdf5d"
-  integrity sha512-/vSyzaQlNXkO1WV+RneYKqCJwualcUdx/Z3gseVovZP0wIlOFcCE1hkRhKBH8ImKbGQbMl9EAAyJFrJu7V0aqA==
+  integrity "sha1-bivT663QM+b+V9By2ytprSyb310= sha512-/vSyzaQlNXkO1WV+RneYKqCJwualcUdx/Z3gseVovZP0wIlOFcCE1hkRhKBH8ImKbGQbMl9EAAyJFrJu7V0aqA=="
   dependencies:
     "@ethersproject/base64" "^5.6.1"
     "@ethersproject/bytes" "^5.6.1"
@@ -892,7 +892,7 @@
 ajv@^8.11.0:
   version "8.11.0"
   resolved "http://localhost:4873/ajv/-/ajv-8.11.0.tgz#977e91dd96ca669f54a11e23e378e33b884a565f"
-  integrity sha512-wGgprdCvMalC0BztXvitD2hC04YffAvtsUn93JbGXYLAtCUO4xd17mCCZQxUOItiBwZvJScWo8NIvQMQ71rdpg==
+  integrity "sha1-l36R3ZbKZp9UoR4j43jjO4hKVl8= sha512-wGgprdCvMalC0BztXvitD2hC04YffAvtsUn93JbGXYLAtCUO4xd17mCCZQxUOItiBwZvJScWo8NIvQMQ71rdpg=="
   dependencies:
     fast-deep-equal "^3.1.1"
     json-schema-traverse "^1.0.0"
@@ -1581,7 +1581,7 @@ human-signals@^2.1.0:
 idna-uts46-hx@^3.5.0:
   version "3.5.0"
   resolved "http://localhost:4873/idna-uts46-hx/-/idna-uts46-hx-3.5.0.tgz#fad856b480bce4ff7477e7e0a42b5a39a8a4bcdc"
-  integrity sha512-0gMFl+zjvA8ZOohPQmLiWcd2Ad60AB9oKzqvLucEC5TyDzHl5mIB6ralW6h8BayVRm4ZmAVYnlI1pCYD2O7lBw==
+  integrity "sha1-+thWtIC85P90d+fgpCtaOaikvNw= sha512-0gMFl+zjvA8ZOohPQmLiWcd2Ad60AB9oKzqvLucEC5TyDzHl5mIB6ralW6h8BayVRm4ZmAVYnlI1pCYD2O7lBw=="
   dependencies:
     punycode "^2.1.1"
 
@@ -2734,41 +2734,44 @@ walker@^1.0.8:
 web3-core@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-core/-/web3-core-5.0.0.tgz#c0196de89b79784b17eea10116f14f9ecda4c100"
-  integrity sha512-BjWC0apqv48vK+tgjBtNXxef6Ujgkwmupum5Ld+uAgP9lssEPlUtvGkho1myPKY45dWzC3rAbxfT2H7FwscA6Q==
+  integrity "sha1-I6FSeDSDiOdT6aCWZiHKqwAE4sU= sha512-uWx2wAm59uKBf2xptvzXQusgfS+grjFsmylTR3+VJHw83Mlv5JZJjmXGH51s9d2a7j/xqxsbeI0NA6OJKJ0UOQ=="
   dependencies:
     web3-errors "^5.0.0"
     web3-eth-iban "^5.0.0"
     web3-providers-http "^5.0.0"
-    web3-providers-ipc "^5.0.0"
     web3-providers-ws "^5.0.0"
     web3-types "^5.0.0"
     web3-utils "^5.0.0"
     web3-validator "^5.0.0"
+  optionalDependencies:
+    web3-providers-ipc "^5.0.0"
 
 web3-errors@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-errors/-/web3-errors-5.0.0.tgz#83e9186b3d3cdde51eb342fb227bbeec75b3c15f"
-  integrity sha512-zw0gk7dH1lB4zcn+s7WD/X+LtA4yEpDimnFi9LTbKnGGFi9keYIpsXsINqUmy4NelIM+xzY0oFOvwdBRXpl5PA==
+  integrity "sha1-HCjONESyqCqTM6IDHljNwqtUU1s= sha512-2XEhOntApZypxGHRwtl6QV/o4sTy8VI9s+KK2l9P6dZ1+bteG60Hsrj4d84oWiGVotdI1/xYklfabCNtyqRrKw=="
   dependencies:
     web3-types "^5.0.0"
 
 web3-eth-abi@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-eth-abi/-/web3-eth-abi-5.0.0.tgz#29b1e45e7f64e432ddad903328a2cc41c193456b"
-  integrity sha512-y6GjMi95Fq4Djt1nm3GBCrxrY+2/yDpUon4UwA2tDikFSnMr2xQx8vmymF1IIQjkDWQnhS8KdbJYUXgb4cKd6A==
+  integrity "sha1-sDCY/Y5nQi3AB9uIvBawREb1X1M= sha512-eDiw5IPrDcOJXxCZeHu2wEc4riPvhINaB6jRmJqmQgUV0ImrLvpozFnv/4HV4XbrrM4ES9kn21c4Q3WgnsFMnQ=="
   dependencies:
-    "@ethersproject/abi" "^5.6.4"
+    abitype "0.7.1"
     web3-errors "^5.0.0"
     web3-types "^5.0.0"
     web3-utils "^5.0.0"
+    web3-validator "^5.0.0"
 
 web3-eth-accounts@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-eth-accounts/-/web3-eth-accounts-5.0.0.tgz#c8f4b2fdf1bbf2324a687c1c1e9ed98e5c578985"
-  integrity sha512-DGzzO5hRfMm/DK+xU5GEJ53dihS1PShT6U8X+oFQkENhHZDx5/+zD6znyVpbcZ/ypRgf12q1YVRm2PAh45NRCw==
+  integrity "sha1-DscTnVbnq0mlfLrYt+fxBQ/5zmg= sha512-lGEUlQTnzO1JRcdiqjBQOrVW7LfpRUnMt8RxKE9cWmz0h1RCQQG9Kub9ApuKxIiNmTX+iQgYq+Mb2huqTXIUOw=="
   dependencies:
-    "@ethereumjs/tx" "^3.5.2"
-    ethereum-cryptography "^1.1.2"
+    "@ethereumjs/rlp" "^4.0.1"
+    crc-32 "^1.2.2"
+    ethereum-cryptography "^2.0.0"
     web3-errors "^5.0.0"
     web3-types "^5.0.0"
     web3-utils "^5.0.0"
@@ -2777,7 +2780,7 @@ web3-eth-accounts@^5.0.0:
 web3-eth-contract@5.0.0, web3-eth-contract@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-eth-contract/-/web3-eth-contract-5.0.0.tgz#dde4856bc8b3e00c35499cbbc260ba8d6bf10e4d"
-  integrity sha512-FYtL4W3sFyXmMVtIRX7qaN7c07gMXyha5i3tti2MnroojteqFm0cY2q8qvAPatDrCincx4Xi+OhXw+BBmhDYFw==
+  integrity "sha1-XTikeNoFfw1YHV9u/UsipcWDT4g= sha512-H9qedauEDPttjlrYs2Q5+08AdIQzQDke7aIYJStMNRTILTIUWNhBv1bjrs0ZkpK7FfqSIlX+t1QP2WxEMfPZDw=="
   dependencies:
     web3-core "^5.0.0"
     web3-errors "^5.0.0"
@@ -2790,9 +2793,9 @@ web3-eth-contract@5.0.0, web3-eth-contract@^5.0.0:
 web3-eth-ens@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-eth-ens/-/web3-eth-ens-5.0.0.tgz#825fb84cab99785f6f621ecffca3f8088b3828cf"
-  integrity sha512-+DWenDS2Yt7N4jidWPmxbvKFFyhHOIyvqQJSWOFtajZ04Lk8Nxc4G1zELJuau49B16rC3yBL/9MwtIr8WMIxQQ==
+  integrity "sha1-Rz7SWzJN7GMTSU/3JTfW8KCw0VY= sha512-AC46miXyFmq+hnY0orviQfqIpEV/qy7d0WHxz9JU/mVIfsvbw2IfYS19KJ/h1bMcSRyQHOJF3igW5EhZN7wpDQ=="
   dependencies:
-    idna-uts46-hx "^3.5.0"
+    "@adraffy/ens-normalize" "^1.8.8"
     web3-core "^5.0.0"
     web3-errors "^5.0.0"
     web3-eth "^5.0.0"
@@ -2800,23 +2803,26 @@ web3-eth-ens@^5.0.0:
     web3-net "^5.0.0"
     web3-types "^5.0.0"
     web3-utils "^5.0.0"
+    web3-validator "^5.0.0"
 
 web3-eth-iban@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-eth-iban/-/web3-eth-iban-5.0.0.tgz#63f40186331c9fc6b38f3686d1605714956c2b4e"
-  integrity sha512-pp7MpmKgQmf/LAuM0S7Ufv0xCzsSqPnCmLGaUApLi8gHMsPZY07uxeiH/oEZyzYkdaR+nbkPF/Y/Ztj0N3PNHQ==
+  integrity "sha1-5cKvchvEV9C9JSM668qLQbLh+VE= sha512-FVsSGgJSPLp6IlMwW+7A0IabGlt56QkIFzYl4QtHNG0r9n2ASlG42z+jEDYBt+B0oOQDL9LHpEAzfdUb0vnuFw=="
   dependencies:
     web3-errors "^5.0.0"
     web3-types "^5.0.0"
     web3-utils "^5.0.0"
+    web3-validator "^5.0.0"
 
 web3-eth-personal@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-eth-personal/-/web3-eth-personal-5.0.0.tgz#623c687163a784d1edacb395614e986623d358cd"
-  integrity sha512-rt6fbYTpTo89KejPcf81rnzGHU9CSDH6M2W+S06e6vZEFVzyoSa/kyTgMKrzKI2Q7widLM4JSz/aMNEMgY2vWw==
+  integrity "sha1-Y4ZbpW0tc/9w0UeMXiOzDKwcDu8= sha512-ugVPT1q3CnktffZVwXA4+E1KvFwTw/FRSNaXS2SCFw+CG60FhN9kbFIj9kGEleAs71zzxK+zt84JoXK9DzV5Ow=="
   dependencies:
     web3-core "^5.0.0"
     web3-eth "^5.0.0"
+    web3-rpc-methods "^5.0.0"
     web3-types "^5.0.0"
     web3-utils "^5.0.0"
     web3-validator "^5.0.0"
@@ -2824,15 +2830,16 @@ web3-eth-personal@^5.0.0:
 web3-eth@5.0.0, web3-eth@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-eth/-/web3-eth-5.0.0.tgz#5b2b19677ee3c61aa26215cbe6b7dec6dbb16ddc"
-  integrity sha512-pp8yuLKiO1Vpjp1yY7x+OUd2Pf4fAg1hC4Cv2muP4Pmy/MhqJBRJcxsS6fmPWbj9y9IV/lbdbFF6DBSunUYppw==
+  integrity "sha1-AHBLeFvGdAqhhIHaC2rklxA4IWI= sha512-jP2xqCHEIJAFVf4nx2+LK4iWshxMNHbHgaBDaUYg9EMQ7aNlSfGBJQAJZU4UKfNNG2tR0nxcL/JrQz06pzWkxg=="
   dependencies:
-    "@ethereumjs/common" "^2.6.5"
-    "@ethereumjs/tx" "^3.5.2"
+    setimmediate "^1.0.5"
     web3-core "^5.0.0"
     web3-errors "^5.0.0"
+    web3-eth-abi "^5.0.0"
     web3-eth-accounts "^5.0.0"
     web3-net "^5.0.0"
     web3-providers-ws "^5.0.0"
+    web3-rpc-methods "^5.0.0"
     web3-types "^5.0.0"
     web3-utils "^5.0.0"
     web3-validator "^5.0.0"
@@ -2840,16 +2847,17 @@ web3-eth@5.0.0, web3-eth@^5.0.0:
 web3-net@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-net/-/web3-net-5.0.0.tgz#0c4e6bb1e7c8f85de60f8852d2bafadecfe1aea8"
-  integrity sha512-nEgVdgS8KeRc6MwkewwmKnLKjXFEP1FV0qBBCQaBTQ0AAIyKhq/F7b+n89N/84isYeLL7/MnR9jLQSxdB9Jm8g==
+  integrity "sha1-6OPs2sqj4/JKpyp+cmB6OYpGPzg= sha512-pDg9fHcUiMHruAjaUQw8JanrsxmKQwAR5+M4MSm1pYqiEbM2LLUrD46PsTshclfxbsU8rAjdLr8SLyPSnoHEdg=="
   dependencies:
     web3-core "^5.0.0"
+    web3-rpc-methods "^5.0.0"
     web3-types "^5.0.0"
     web3-utils "^5.0.0"
 
 web3-providers-http@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-providers-http/-/web3-providers-http-5.0.0.tgz#e664e4d16d4d5aa7c677e8aa9dda8e1e67fa8949"
-  integrity sha512-Kv13bM3PSGb3LBlTEZ7Ym1XoXXg+DXGqKMITo2QIjgGHRDz/eUgtPmfPndZmPZLODjMA5hvF2k17PADEs0Mn0A==
+  integrity "sha1-T/gZEWygVEDBPJKbxYoDrV+L0nI= sha512-113gq+MFtW/ByWM5smjAjMnwqQPKeiiwJJy3uXhhq9yBffGdLmxxYu01+nSViLrF1brVEeMroZdCklPiEqgXUw=="
   dependencies:
     cross-fetch "^3.1.5"
     web3-errors "^5.0.0"
@@ -2859,7 +2867,7 @@ web3-providers-http@^5.0.0:
 web3-providers-ipc@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-providers-ipc/-/web3-providers-ipc-5.0.0.tgz#31f9b3e8382fab9319c422c1b2d431d5a6284163"
-  integrity sha512-a56U/wNcjk1mXXhLh3Zpgh1Tq8QByf1MHFWrgjunAzAiaPuE/b9CrzsXdzuY/VGv0Ndj5QiICHWZmUwuQHd/QQ==
+  integrity "sha1-czPlOrl0Vf4kHNDUiW2m5TnN6GA= sha512-7IWgzF6sQ/PR2XwccjdABvk1/1/9WuaTumC7tvE/P6dC6yYKFUItlW4Im3FHpf3G+Lt4K0GZJNwB7LRdJJ9PJg=="
   dependencies:
     web3-errors "^5.0.0"
     web3-types "^5.0.0"
@@ -2868,8 +2876,9 @@ web3-providers-ipc@^5.0.0:
 web3-providers-ws@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-providers-ws/-/web3-providers-ws-5.0.0.tgz#1fdacaccb87c120628873413729fc79e074e1325"
-  integrity sha512-Hf+7686ZWWi0WYxnc+7TdSjjsPCnDhPhAEQSS78kBuV7m4GaUOwk6mK62MvuhPDxFYpe5H8VR8m0dnYR235MAQ==
+  integrity "sha1-fQKoN+KmP8r8q4bT49Zr6/roJro= sha512-9bILpSWBQIvUR7iRCJQfjIceoDVeO/VwAO8X8HXBfu4xkZBz3gnbnJpQK8u0ElyleINfM7sorhP5m+EPn67s/Q=="
   dependencies:
+    "@types/ws" "8.5.3"
     isomorphic-ws "^5.0.0"
     web3-errors "^5.0.0"
     web3-types "^5.0.0"
@@ -2879,14 +2888,14 @@ web3-providers-ws@^5.0.0:
 web3-types@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-types/-/web3-types-5.0.0.tgz#ca76e2748db9c95e92e35074bd9148b21769b347"
-  integrity sha512-FrrWv1pePYA0jObcqhFlxY9LzgkAGsuRbKgjWgNToTBUlhrXyjZ05netpfpI/6zQ7BDxu483I7CRvjy+n/tQdw==
+  integrity "sha1-qgpMp8k3fOqcoLKx2LqZZbDBWzY= sha512-e3fgMVRBYpnbG3J4pZVuRoKmSnIG8IZkuHRHuyZgbNl48Lk96nUwVE3uruE4I4+Hb1zuxfPA+qyint1cwpYzWw=="
 
 web3-utils@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-utils/-/web3-utils-5.0.0.tgz#7e73ad17ad0719f5c5531fe2fbbf5d00a7eb438a"
-  integrity sha512-KeEeG84NAxRdNiMn1V65seHBCQtQ4A/QDZRkX9HEUvKqPEu0IPd8x3wW9IMEGRPKABROCG3ZKWblkYwqjcFU6A==
+  integrity "sha1-A12fWvguC0Glzocb+FCA45cOR7U= sha512-DLljMqhDijk7MTxH0fuVr9FmVYL56RONtzwIBHXL94MMCB9JNVs/mm5qfxKVexPZeGypdOg28ECLmAdB+/gXpQ=="
   dependencies:
-    ethereum-cryptography "^1.1.2"
+    ethereum-cryptography "^2.0.0"
     web3-errors "^5.0.0"
     web3-types "^5.0.0"
     web3-validator "^5.0.0"
@@ -2894,16 +2903,18 @@ web3-utils@^5.0.0:
 web3-validator@5.0.0, web3-validator@^5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3-validator/-/web3-validator-5.0.0.tgz#eff9a9f2f380ecbfdd093c5255f14519cef9d6bd"
-  integrity sha512-Sb/DgnJIthsVCxu0XA7/KOXtWo4RPnYoo6USbJIivo2jlaZy45Wyt9kChB9e2Zvt6ewvVoHVdZ9afcL0DGed+w==
+  integrity "sha1-r1CpzrY2Wj1ClWp9aAB4605JCrc= sha512-HOVOpBJW+fGswjGEcNM/5h+b3xhc8uizPybdyeh2T3ZJ8DnMB9cVNA0pUYlJ8742IaggReaWQ2CRFN4qJvk1Bg=="
   dependencies:
-    ajv "^8.11.0"
-    ethereum-cryptography "^1.1.2"
+    ethereum-cryptography "^2.0.0"
+    util "^0.12.5"
+    web3-errors "^5.0.0"
     web3-types "^5.0.0"
+    zod "^3.21.4"
 
 web3@5.0.0:
   version "5.0.0"
   resolved "http://localhost:4873/web3/-/web3-5.0.0.tgz#e1f74c9ee528bb430fc6e17a55d948d63563b5d8"
-  integrity sha512-dELMyViyZTpcGf41VWSa/vRQRpxD7M9SBjMDvcrsKRGXr04qZP/2PRFa448jiGEfHGvTUuAd9u9VJY3ZnDpb0A==
+  integrity "sha1-d+Y+ok8hzhka4Su+f+Eg+ioABKE= sha512-CS26GH+V7B9SRi8WeqGjNDCDO4YKex/nDNyTs0yLVSLoDelmgKtClCD0GvZt10fl2DNxqBIP9EgpwW2M2zlXIw=="
   dependencies:
     web3-core "^5.0.0"
     web3-errors "^5.0.0"
@@ -2915,8 +2926,12 @@ web3@5.0.0:
     web3-eth-iban "^5.0.0"
     web3-eth-personal "^5.0.0"
     web3-net "^5.0.0"
+    web3-providers-http "^5.0.0"
+    web3-providers-ws "^5.0.0"
+    web3-rpc-methods "^5.0.0"
     web3-types "^5.0.0"
     web3-utils "^5.0.0"
+    web3-validator "^5.0.0"
 
 webidl-conversions@^3.0.0:
   version "3.0.1"
