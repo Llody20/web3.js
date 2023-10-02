@@ -1,0 +1,303 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [
+    {
+      "name": "Install Dependencies",
+      "command": "yarn install"
+    }
+  ],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "version": {
+      "name": "version",
+      "command": "yarn version",
+      "runAtStart": false
+    },
+    "bootstrap": {
+      "name": "bootstrap",
+      "command": "yarn bootstrap",
+      "runAtStart": false
+    },
+    "prebuild": {
+      "name": "prebuild",
+      "command": "yarn prebuild",
+      "runAtStart": false
+    },
+    "build": {
+      "name": "build",
+      "command": "yarn build",
+      "runAtStart": false
+    },
+    "build:types": {
+      "name": "build:types",
+      "command": "yarn build:types",
+      "runAtStart": false
+    },
+    "build:cjs": {
+      "name": "build:cjs",
+      "command": "yarn build:cjs",
+      "runAtStart": false
+    },
+    "build:esm": {
+      "name": "build:esm",
+      "command": "yarn build:esm",
+      "runAtStart": false
+    },
+    "build:web": {
+      "name": "build:web",
+      "command": "yarn build:web",
+      "runAtStart": false
+    },
+    "build:web:analyze": {
+      "name": "build:web:analyze",
+      "command": "yarn build:web:analyze",
+      "runAtStart": false
+    },
+    "build:docs": {
+      "name": "build:docs",
+      "command": "yarn build:docs",
+      "runAtStart": false
+    },
+    "changelog": {
+      "name": "changelog",
+      "command": "yarn changelog",
+      "runAtStart": false
+    },
+    "clean": {
+      "name": "clean",
+      "command": "yarn clean",
+      "runAtStart": false
+    },
+    "ganache:start": {
+      "name": "ganache:start",
+      "command": "yarn ganache:start",
+      "runAtStart": false
+    },
+    "ganache:start:background": {
+      "name": "ganache:start:background",
+      "command": "yarn ganache:start:background",
+      "runAtStart": false
+    },
+    "ganache:stop": {
+      "name": "ganache:stop",
+      "command": "yarn ganache:stop",
+      "runAtStart": false
+    },
+    "geth:start": {
+      "name": "geth:start",
+      "command": "yarn geth:start",
+      "runAtStart": false
+    },
+    "geth:start:background": {
+      "name": "geth:start:background",
+      "command": "yarn geth:start:background",
+      "runAtStart": false
+    },
+    "geth:stop": {
+      "name": "geth:stop",
+      "command": "yarn geth:stop",
+      "runAtStart": false
+    },
+    "geth-binary:start": {
+      "name": "geth-binary:start",
+      "command": "yarn geth-binary:start",
+      "runAtStart": false
+    },
+    "geth-binary:start:background": {
+      "name": "geth-binary:start:background",
+      "command": "yarn geth-binary:start:background",
+      "runAtStart": false
+    },
+    "geth-binary:stop": {
+      "name": "geth-binary:stop",
+      "command": "yarn geth-binary:stop",
+      "runAtStart": false
+    },
+    "lint": {
+      "name": "lint",
+      "command": "yarn lint",
+      "runAtStart": false
+    },
+    "lint:fix": {
+      "name": "lint:fix",
+      "command": "yarn lint:fix",
+      "runAtStart": false
+    },
+    "format": {
+      "name": "format",
+      "command": "yarn format",
+      "runAtStart": false
+    },
+    "test": {
+      "name": "test",
+      "command": "yarn test",
+      "runAtStart": false
+    },
+    "test:coverage:unit": {
+      "name": "test:coverage:unit",
+      "command": "yarn test:coverage:unit",
+      "runAtStart": false
+    },
+    "test:coverage:integration": {
+      "name": "test:coverage:integration",
+      "command": "yarn test:coverage:integration",
+      "runAtStart": false
+    },
+    "test:unit": {
+      "name": "test:unit",
+      "command": "yarn test:unit",
+      "runAtStart": false
+    },
+    "test:integration": {
+      "name": "test:integration",
+      "command": "yarn test:integration",
+      "runAtStart": false
+    },
+    "test:e2e:ganache:http": {
+      "name": "test:e2e:ganache:http",
+      "command": "yarn test:e2e:ganache:http",
+      "runAtStart": false
+    },
+    "test:e2e:ganache:ws": {
+      "name": "test:e2e:ganache:ws",
+      "command": "yarn test:e2e:ganache:ws",
+      "runAtStart": false
+    },
+    "test:e2e:geth:http": {
+      "name": "test:e2e:geth:http",
+      "command": "yarn test:e2e:geth:http",
+      "runAtStart": false
+    },
+    "test:e2e:geth:ws": {
+      "name": "test:e2e:geth:ws",
+      "command": "yarn test:e2e:geth:ws",
+      "runAtStart": false
+    },
+    "test:e2e:geth:ipc": {
+      "name": "test:e2e:geth:ipc",
+      "command": "yarn test:e2e:geth:ipc",
+      "runAtStart": false
+    },
+    "test:e2e:ganache:ws:electron": {
+      "name": "test:e2e:ganache:ws:electron",
+      "command": "yarn test:e2e:ganache:ws:electron",
+      "runAtStart": false
+    },
+    "test:e2e:ganache:ws:chrome": {
+      "name": "test:e2e:ganache:ws:chrome",
+      "command": "yarn test:e2e:ganache:ws:chrome",
+      "runAtStart": false
+    },
+    "test:e2e:ganache:ws:firefox": {
+      "name": "test:e2e:ganache:ws:firefox",
+      "command": "yarn test:e2e:ganache:ws:firefox",
+      "runAtStart": false
+    },
+    "test:e2e:coverage": {
+      "name": "test:e2e:coverage",
+      "command": "yarn test:e2e:coverage",
+      "runAtStart": false
+    },
+    "test:e2e:mainnet:http": {
+      "name": "test:e2e:mainnet:http",
+      "command": "yarn test:e2e:mainnet:http",
+      "runAtStart": false
+    },
+    "test:e2e:mainnet:ws": {
+      "name": "test:e2e:mainnet:ws",
+      "command": "yarn test:e2e:mainnet:ws",
+      "runAtStart": false
+    },
+    "test:e2e:sepolia:http": {
+      "name": "test:e2e:sepolia:http",
+      "command": "yarn test:e2e:sepolia:http",
+      "runAtStart": false
+    },
+    "test:e2e:sepolia:ws": {
+      "name": "test:e2e:sepolia:ws",
+      "command": "yarn test:e2e:sepolia:ws",
+      "runAtStart": false
+    },
+    "generate:accounts": {
+      "name": "generate:accounts",
+      "command": "yarn generate:accounts",
+      "runAtStart": false
+    },
+    "pre-blackbox": {
+      "name": "pre-blackbox",
+      "command": "yarn pre-blackbox",
+      "runAtStart": false
+    },
+    "post-blackbox": {
+      "name": "post-blackbox",
+      "command": "yarn post-blackbox",
+      "runAtStart": false
+    },
+    "post-blackbox:ganache": {
+      "name": "post-blackbox:ganache",
+      "command": "yarn post-blackbox:ganache",
+      "runAtStart": false
+    },
+    "post-blackbox:geth": {
+      "name": "post-blackbox:geth",
+      "command": "yarn post-blackbox:geth",
+      "runAtStart": false
+    },
+    "test:blackbox:ganache:http": {
+      "name": "test:blackbox:ganache:http",
+      "command": "yarn test:blackbox:ganache:http",
+      "runAtStart": false
+    },
+    "test:blackbox:ganache:ws": {
+      "name": "test:blackbox:ganache:ws",
+      "command": "yarn test:blackbox:ganache:ws",
+      "runAtStart": false
+    },
+    "test:blackbox:geth:http": {
+      "name": "test:blackbox:geth:http",
+      "command": "yarn test:blackbox:geth:http",
+      "runAtStart": false
+    },
+    "test:blackbox:geth:ws": {
+      "name": "test:blackbox:geth:ws",
+      "command": "yarn test:blackbox:geth:ws",
+      "runAtStart": false
+    },
+    "test:blackbox:infura:http": {
+      "name": "test:blackbox:infura:http",
+      "command": "yarn test:blackbox:infura:http",
+      "runAtStart": false
+    },
+    "test:blackbox:infura:ws": {
+      "name": "test:blackbox:infura:ws",
+      "command": "yarn test:blackbox:infura:ws",
+      "runAtStart": true
+    },
+    "husky:install": {
+      "name": "husky:install",
+      "command": "yarn husky:install",
+      "runAtStart": false
+    },
+    "husky:uninstall": {
+      "name": "husky:uninstall",
+      "command": "yarn husky:uninstall",
+      "runAtStart": false
+    },
+    "postinstall": {
+      "name": "postinstall",
+      "command": "yarn postinstall",
+      "runAtStart": false
+    },
+    "compile:contracts": {
+      "name": "compile:contracts",
+      "command": "yarn compile:contracts",
+      "runAtStart": false
+    },
+    "publish:canary": {
+      "name": "publish:canary",
+      "command": "yarn publish:canary",
+      "runAtStart": false
+    }
+  }
+}
